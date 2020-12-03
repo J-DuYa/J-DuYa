@@ -2,4 +2,4 @@
 
 🏠 A man has a funny family.
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=J-DuYa&show_icons=true&theme=dark&count_private=true)
+![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=J-DuYa&show_icons=true&theme=dark&count_private=true)
