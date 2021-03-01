@@ -21,6 +21,7 @@
 - [Gamor官网](https://github.com/J-DuYa/gamor)
 
 ## 自己研发 npm packages
-- [@duya/parse-npm-packages](https://github.com/J-DuYa/parse-npm-packages) [用于解析可下载的 package tarballs]
+- [parse-npm-packages](https://github.com/J-DuYa/parse-npm-packages) [用于解析可下载的 package tarballs]
+- [@duya/react-preview-markdown](https://github.com/J-DuYa/react-preview-markdown)[正在开发中... 做一个 code markdown]
 
 ![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=J-DuYa&show_icons=true&theme=dark&count_private=true)
