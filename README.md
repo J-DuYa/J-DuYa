@@ -25,7 +25,7 @@
 - [react-code-preview](https://github.com/J-DuYa/react-preview-markdown)[正在开发中... 做一个 code markdown]
 
 ## 工程化
-- [duya cli](https://github.com/J-DuYa/duya-cli/tree/master)[初始化、发布项目]
+- [duya cli] (https://github.com/J-DuYa/duya-cli/tree/master)[初始化、发布项目]
 - [应用、界面、区块等相关代码仓库](https://github.com/gamor-work)
 
 ## 自己写 editor
