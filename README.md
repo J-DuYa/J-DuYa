@@ -24,6 +24,9 @@
 - [parse-npm-packages](https://github.com/J-DuYa/parse-npm-packages) [用于解析可下载的 package tarballs]
 - [react-code-preview](https://github.com/J-DuYa/react-preview-markdown)[正在开发中... 做一个 code markdown]
 
+## 工程化
+- [duya cli](https://github.com/J-DuYa/duya-cli/tree/master)[初始化、发布项目]
+
 ## 自己写 editor
 
 flow editor
