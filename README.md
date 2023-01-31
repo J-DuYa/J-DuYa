@@ -1,5 +1,3 @@
-<image src='https://github.com/J-DuYa/J-DuYa/blob/main/%E6%BC%A9%E6%B6%A1%E9%B8%A3%E4%BA%BA.jpeg' />
-
 ```
 ·▄▄▄▄  ▄• ▄▌ ▄· ▄▌ ▄▄▄· 
 ██▪ ██ █▪██▌▐█▪██▌▐█ ▀█ 
