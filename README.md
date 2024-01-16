@@ -16,7 +16,8 @@
 
 ## ADDRESS
 
-- [Gamor官网](https://github.com/J-DuYa/gamor)
+- [DuYa 平台（前端 - Vue3 + ts 编写）](https://github.com/junjjj/duya)
+- [DuYa 平台（后端 - nest + ts 编写）](https://github.com/junjjj/lowcode-server)
 
 ## 自己研发 npm packages
 - [parse-npm-packages](https://github.com/J-DuYa/parse-npm-packages) [用于解析可下载的 package tarballs]
